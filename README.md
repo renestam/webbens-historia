@@ -1,0 +1,1 @@
+This was kinda my second ever website! It's built with pure HTML/CSS/JS and not much love. It's in Swedish and talks about the history of the web. There's also a text I wrote about how the internet has affected our general health.
